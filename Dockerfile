@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM ubuntu:14.04
 
 RUN echo "Hello World"
 
